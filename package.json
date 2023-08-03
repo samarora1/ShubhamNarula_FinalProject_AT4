@@ -1,0 +1,15 @@
+{
+  "name": "shubhamnarula_finalproject_at4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubham Narula",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.6.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}
